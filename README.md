@@ -8,4 +8,4 @@ Happy Life is a modern restaurant landing page that blends contemporary design w
 
 The design focuses on creating a premium dining experience through elegant typography, dark luxury aesthetics, and smooth user interactions.
 
-![happilifecafe](/happylife.png.png)
+![happilifecafe](/happilife.png.png)
